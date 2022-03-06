@@ -3,7 +3,7 @@
 - I am primarily interested in building large-scale backend systems. Storing & processing humongous volumes of data is fascinating for me. 
 - I love designing asynchronous architectures on the cloud using various AWS components.
 - I am a ardent fan of Serverless computing.
-- I am currently learning TypeScript, Scala & Rust. I am proficient in Java, C++, JavaScript & NodeJS.
+- I am currently learning TypeScript, Scala & Rust. I am proficient in Java, C++, JavaScript & Python.
 
 <!--
 **prashantyadla/prashantyadla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
