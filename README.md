@@ -1,4 +1,6 @@
 ### Hi there 👋
+- I currently work at Alexa AI Team in LA
+- I am interested in building large-scale backend systems. Storing & Processing humongous volumes of data is fascinating for me. 
 
 <!--
 **prashantyadla/prashantyadla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
