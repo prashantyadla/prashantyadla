@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I currently work at Alexa AI Team in LA as a Software Development Engineer
+- I currently work at Alexa AI Lab in LA as a Software Development Engineer
 - I am primarily interested in building large-scale backend systems. Storing & processing humongous volumes of data is fascinating for me. 
 - I love designing asynchronous architectures on the cloud using various AWS components.
 - I am a ardent fan of Serverless computing.
