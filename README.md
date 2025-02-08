@@ -1,5 +1,3 @@
-### Hi there 👋
-- I currently work at Apple Inc. as a Senior Machine Learning Engineer!
 
 <!--
 **prashantyadla/prashantyadla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
